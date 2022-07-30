@@ -3,11 +3,12 @@
 <h3 align="center"> FullStack Developer </h3>
 <br>
 
-- Tengo 25 años y soy de Mendoza, Argentina
-- Gadurada de Técnico Universitario en Programacién de la [Universidad Tecnológica Nacional de Mendoza](http://www.frm.utn.edu.ar/index.php)
+- Programando desde el 2019 💻
+- Graduada de Técnico Universitario en Programacién de la [Universidad Tecnológica Nacional de Mendoza](http://www.frm.utn.edu.ar/index.php)
 - Mi contacto: [LinkedIn](https://www.linkedin.com/in/sabrinadohmen/)
 
-<h3 align="center"> Habiliades / Lenguajes </h3>
+<br>
+<h3 align="left"> Habiliades / Lenguajes </h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" alt="Vue" width="40" height="40"/>
